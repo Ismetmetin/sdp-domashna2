@@ -1,3 +1,0 @@
-stable priority queue - опашка с приоритет 
-двоична пирамида - binary tree като коренът е min/max value на децата си, така за всеки връх
-std::map, std::unordered map
